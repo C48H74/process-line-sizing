@@ -1,0 +1,6 @@
+{
+  "phase": "liquid",
+  "actualFlowM3h": 50,
+  "velocityLimitMps": 2,
+  "candidates": [{"name": "DN100 Sch40 (illustrative)", "idMm": 102.3}]
+}
